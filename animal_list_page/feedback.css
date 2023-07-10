@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://inlinemanual.com/assets/img/im-feedback-header.401395b6.jpg);
+    height:100%;
+    width:100%;
+    background-repeat:repeat;
+    background-size:cover;   
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
+    -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
+}
+
+h1{
+    color:black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+fieldset{
+    border: 3px solid black;
+
+}
+
+h2{
+    color: rgb(25, 22, 22);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
