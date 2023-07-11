@@ -1,6 +1,4 @@
 # html_projects
 
-In this repository, I store various HTML and CSS projects
-Various HTML and CSS projects are:
-1. Google-Frontpage-Clone
-2. Animal-List-Page
+In this project, I have tried to create an exact copy of amazon using HTML and CSS concepts
+
