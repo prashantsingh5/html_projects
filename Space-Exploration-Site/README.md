@@ -1,7 +1,6 @@
-# html_projects
+# Space Exploration Site
 
-In this repository, I store various HTML and CSS projects
-Various HTML and CSS projects are:
-1. Amazon-clone
-2. Google-Frontpage-Clone
-3. Animal-List-Page 
+This site is created using the animation background and the concepts of HTML and CSS
+
+The output will look like :--
+![Screenshot (30)](https://github.com/prashantsingh5/html_projects/assets/136187698/7adacc94-93a5-479f-9f6b-17ba274441d5)
